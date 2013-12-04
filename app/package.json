@@ -1,0 +1,8 @@
+{
+	"name": "AwesomeCleaner",
+	"description": "This is a application to clean your directories from unwanted clutter.",
+	"devDependencies": {
+		"grunt": "~0.4.2",
+		"grunt-node-webkit-builder": "~0.1.13"
+	}
+}

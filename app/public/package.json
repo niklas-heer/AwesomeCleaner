@@ -1,0 +1,17 @@
+{
+	"name": "AwesomeCleaner",
+	"version" : "0.0.1",
+	"description": "This is a application to clean your directories from unwanted clutter.",
+	"main": "index.html",
+	"window": {
+		"toolbar": false,
+		"width": 400,
+		"height": 400
+	},
+	"webkit": {
+		"plugin": true
+	},
+	"dependencies": {
+		"deck":"latest"
+	}
+}
