@@ -3,6 +3,7 @@ AwesomeCleaner
 
 
 ## About
+
 This is an application which helps you unclutter your directories from unwanted stuff!
 
 Developers:
